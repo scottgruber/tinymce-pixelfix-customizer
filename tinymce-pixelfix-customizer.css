@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+    font-family: Arial;
+}
+
+h2 {
+    color: red;
+    font-family: Arial;
+}
+
+
+.my-style {
+    color: dodgerblue;
+}
+
+.your-style {
+    color: green;
+}
